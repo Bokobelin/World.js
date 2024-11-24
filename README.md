@@ -1,6 +1,9 @@
 # World.js
 A new javascript framework. No deps. Pure js, no typescript required.
 
+## IMPORTANT!
+Suspense does not work... Except if used with the 'progressive' attribute.
+
 ## What does code in World.js look like?
 ```
 <!-- index.html -->
